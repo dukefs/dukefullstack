@@ -61,7 +61,6 @@
 [![Kibana](https://img.shields.io/badge/-Kibana-2f2f2f?style=flat-square&logo=Kibana&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Logstash](https://img.shields.io/badge/-Logstash-2f2f2f?style=flat-square&logo=Logstash&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-2f2f2f?style=flat-square&logo=Insomnia&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
-[![Postman](https://img.shields.io/badge/-Postman-2f2f2f?style=flat-square&logo=Postman&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Docker](https://img.shields.io/badge/-Docker-2f2f2f?style=flat-square&logo=docker&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Redux](https://img.shields.io/badge/-Redux-2f2f2f?style=flat-square&logo=redux&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 
@@ -82,7 +81,6 @@
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-2f2f2f?style=flat-square&logo=git&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
-[![GitLab](https://img.shields.io/badge/-GitLab-2f2f2f?style=flat-square&logo=gitlab&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2f2f2f?style=flat-square&logo=github&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-2f2f2f?style=flat-square&logo=bitbucket&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Jira](https://img.shields.io/badge/-Jira-2f2f2f?style=flat-square&logo=Jira&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
