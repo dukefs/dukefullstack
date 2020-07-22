@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/static/v1?label=Medium&message=%20&color=blue&logo=Medium&style=flat-square&logoColor=white)](https://medium.com/@dukefullstack)
 [![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UCtNyzodfbZAuXdPTdZo75TQ)
 [![Twitch](https://img.shields.io/static/v1?label=Twitch&message=%20&color=blue&logo=Twitch&style=flat-square&logoColor=white)](https://www.twitch.tv/dukefullstack)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://medium.com/@dukefullstack)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/dukefullstack)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://medium.com/@dukefullstack)
 
 ## About me
