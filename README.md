@@ -91,4 +91,4 @@
 [![Discord](https://img.shields.io/badge/-Discord-2f2f2f?style=flat-square&logo=Discord&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 [![Gitter](https://img.shields.io/badge/-Gitter-2f2f2f?style=flat-square&logo=Gitter&logoColor=white&link=https://github.com/dukefullstack/)](https://github.com/dukefullstack/)
 
-⭐️ From [Thiago Santos Joaquim](https://github.com/dukefullstack)
+⭐️ From [Thiago Santos Joaquim](https://cutt.ly/1sqwwbf)
