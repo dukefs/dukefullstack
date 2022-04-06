@@ -1,11 +1,9 @@
 # :wave: Hi, I'm Thiago Santos Joaquim :wave:
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://cutt.ly/da5WEag)
-[![Medium](https://img.shields.io/static/v1?label=Medium&message=%20&color=blue&logo=Medium&style=flat-square&logoColor=white)](https://cutt.ly/Za5WGzR)
-[![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://cutt.ly/Da5gqxU)
-[![Twitch](https://img.shields.io/static/v1?label=Twitch&message=%20&color=blue&logo=Twitch&style=flat-square&logoColor=white)](https://cutt.ly/ba5kmvf)
-[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://cutt.ly/ea5ErX2)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://cutt.ly/1a5Emmo)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/dukefullstack/)
+[![Youtube](https://img.shields.io/static/v1?label=Youtube&message=%20&color=blue&logo=Youtube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UCW3sXP1YBfvDB3_B_7-mldw)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/dukefullstack)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/dukefullstack/)
 
 ## About me
 
